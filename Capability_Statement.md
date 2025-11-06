@@ -21,7 +21,7 @@
 
 ### **2. Cryptographic Engineering**
 - RSA accumulators  
-- Hash-to-prime + deterministic integer mapping  
+- Probabilistic hash-to-prime mapping using secure SHA-256 preimages 
 - Merkle/RBC systems (baseline)  
 - Zero-knowledge–ready architecture  
 - SNARKs & vector commitments (Phase II roadmap)  
