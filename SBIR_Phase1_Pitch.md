@@ -1,5 +1,5 @@
 ---
-# **SBIR PHASE I PITCH – AFWERX / SPACEWERX**
+# **AFWERX / SPACEWERX SBIR PHASE I PITCH**
 ## **High-Performance Zero-Trust Distributed Validation for Contested C2 & Space Networks**
 ---
 
