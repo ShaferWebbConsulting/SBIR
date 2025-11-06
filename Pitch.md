@@ -1,5 +1,5 @@
 ---
-# ONE-PAGE SBIR PITCH – Shafer Webb Consulting LLC (AFWERX-Compliant)
+# ONE-PAGE SBIR AFWERX/SpaceWERX PITCH)
 ## High-Performance Zero-Trust Distributed Validation for Contested Environments
 ---
 
