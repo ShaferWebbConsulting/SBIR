@@ -6,7 +6,7 @@
 ## Company
 **Shafer Webb Consulting LLC**  
 Founder: **Eric W.** — PhD — CISSP  
-Background: U.S. Army GS-9 (Cyber), Lockheed Martin, Deloitte Army, Northrop Grumman, DoD Cyber Brigade  
+Background: U.S. Army GS-9 (Cyber), Lockheed Martin (F-35), Deloitte (Army, DCSA), Northrop Grumman (E-2 Hawkeye / Space Systems)
 Specialty: Distributed systems, asynchronous consensus, zero-trust cryptographic validation
 
 ---
