@@ -109,6 +109,7 @@ Phase II integrates **SNARKs + vector commitments** for sublinear, succinct, mis
 **Shafer Webb Consulting LLC**  
 517 Van Ness Street  
 Daytona Beach, FL 32114  
+**Type:** *Small Business*  
 **UEI:** *Pending*  
 
 ---
