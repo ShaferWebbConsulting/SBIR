@@ -12,7 +12,7 @@ Specialty: Distributed systems, asynchronous consensus, cryptographic validation
 
 ---
 
-# ✅ **The Problem**
+# **The Problem**
 
 Modern AF/Space Force missions rely on distributed data across aircraft, satellites, ground nodes, and autonomous systems.  
 Current validation methods fail under:
@@ -29,7 +29,7 @@ Current validation methods fail under:
 
 ---
 
-# ✅ **Our Innovation**
+# **Our Innovation**
 
 A next-generation **cryptographic validation layer** optimized for tactical, cyber, and space environments.
 
@@ -85,7 +85,7 @@ Deliver **ultra-lightweight, zero-trust distributed integrity** for tactical, cy
 
 ---
 
-# ✅ **Military Value**
+# **Military Value**
 
 Improves:
 
@@ -97,7 +97,7 @@ Improves:
 
 ---
 
-# ✅ **Phase I Request (AFWERX / SpaceWERX)**
+# **Phase I Request (AFWERX / SpaceWERX)**
 
 **$75,000 — 3-Month SBIR Phase I**
 
@@ -109,13 +109,13 @@ Improves:
 
 ---
 
-# ✅ **Phase II Transition Plan**
+# **Phase II Transition Plan**
 
 Deliver a deployable prototype integrating **RSA accumulators + SNARKs + vector commitments** inside an AF/SF operational architecture (C2, spacecraft networks, or autonomous platforms).
 
 ---
 
-# ✅ **What We Need Now**
+# **What We Need Now**
 - Air Force / Space Force **operator discovery**  
 - A mission owner to shape requirements  
 - A program office for Phase II transition support  
