@@ -4,7 +4,7 @@
 **Location:** Daytona Beach, FL  
 **Website:** *www.shaferwebbconsulting.com*  
 **POC:** **Eric Webb.**, PhD, CISSP  
-**Email:** Eric@shaferwebbconsulting.com 
+**Email:** Eric@shaferwebbconsulting.com
 **NAICS Codes:** 541511, 541512, 541715, 541330, 541690  
 
 ---
@@ -50,7 +50,7 @@ Up to **10×+ reduction** in proof traffic compared to Merkle-based RBC, enablin
 
 ### **Ready Prototype with Real Results**
 - End-to-end working prototype in Rust  
-- AWS experiments across 5–32+ distributed nodes  
+- AWS experiments across 5–104+ distributed nodes  
 - Measured throughput, latency, and resource profiles  
 - Plots, figures, and reproducible test harness  
 
@@ -74,7 +74,7 @@ Phase II integrates **SNARKs + vector commitments** for sublinear, succinct, mis
 - End-to-end unit tests, integration tests, and AWS multi-node runs  
 - Performance metrics aligned with ABFT/HoneyBadger methodology  
 - Research foundation published and under peer review  
-- Experimentation at scale with EC2 clusters, DDIL simulation, and NetEm  
+- Experimentation at scale with EC2 clusters, DDIL simulation.
 
 ---
 
@@ -109,8 +109,6 @@ Phase II integrates **SNARKs + vector commitments** for sublinear, succinct, mis
 **Shafer Webb Consulting LLC**  
 517 Van Ness Street  
 Daytona Beach, FL 32114  
-**Type:** Service-Disabled Veteran-Owned / Small Business  
-**DUNS:** *N/A (UEI replaces DUNS)*  
 **UEI:** *Pending*  
 
 ---
