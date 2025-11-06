@@ -5,7 +5,7 @@
 
 ## **Company**
 **Shafer Webb Consulting LLC**  
-Founder: **Eric W. (PhD, CISSP)**  
+Founder: **Eric Webb. (PhD, CISSP)**  
 Background: U.S. Army GS-9 (Cyber), Lockheed Martin (F-35), Deloitte (Army/DCSA), Northrop Grumman (E-2 Hawkeye / Space Systems)  
 Specialty: Distributed systems, asynchronous consensus, cryptographic validation, zero-trust architectures  
 **Current TRL:** 4 (advancing to TRL-5 in Phase I)
