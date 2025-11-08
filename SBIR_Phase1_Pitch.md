@@ -31,10 +31,10 @@ Current validation methods fail under:
 
 # **Our Innovation**
 
-A next-generation **cryptographic validation layer** optimized for tactical, cyber, and space environments.
+A next-generation **cryptographic validation layer** that can be optimized for tactical, cyber, and space environments.
 
-**Dual-Use Commercialization Intent**
-This technology is intentionally designed as a dual-use product. Providing military-grade distributed validation for missions, while also addressing commercial demand for secure, low-bandwidth consensus in sectors such as telecommunications, distributed cloud, fintech/Web3 infrastructure, autonomous robotics, and satellite communications. Phase I will develop the foundation for a commercial-ready, revenue-generating product that aligns with both DoD mission needs and high-growth commercial markets.
+**Dual-Use Commercialization Intent:**
+This technology is intentionally designed as a dual-use product. Providing military-grade distributed validation for missions, while also addressing commercial demand for secure, low-bandwidth consensus in sectors such as telecommunications, fintech, autonomous robotics, and satellite communications. Phase I will develop the foundation for a commercial-ready, revenue-generating product that aligns with both DoD mission needs and high-growth commercial markets.
 
 ---
 
