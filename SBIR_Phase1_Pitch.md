@@ -33,6 +33,9 @@ Current validation methods fail under:
 
 A next-generation **cryptographic validation layer** optimized for tactical, cyber, and space environments.
 
+**Dual-Use Commercialization Intent**
+This technology is intentionally designed as a dual-use product. Providing military-grade distributed validation for missions, while also addressing commercial demand for secure, low-bandwidth consensus in sectors such as telecommunications, distributed cloud, fintech/Web3 infrastructure, autonomous robotics, and satellite communications. Phase I will develop the foundation for a commercial-ready, revenue-generating product that aligns with both DoD mission needs and high-growth commercial markets.
+
 ---
 
 ## **Phase I Capability (Ready Today) – RSA-Accumulator Consensus Layer**
@@ -41,7 +44,7 @@ Our working prototype includes:
 
 - Rust-based asynchronous consensus engine  
 - RSA-accumulator validation logic  
-- **>90% bandwidth reduction** vs Merkle/RBC techniques  
+- **>90% bandwidth reduction** vs legacy Merkle/RBC techniques  
 - Constant-size proofs + ultra-fast validation  
 - AWS-based scaling experiments with performance plots  
 - Robust under high-node, low-bandwidth conditions  
