@@ -93,7 +93,8 @@ Deliver **ultra-lightweight, zero-trust distributed integrity** for tactical, cy
 Improves:
 
 - Mission data integrity & trust  
-- Distributed system performance under DDIL  
+- Distributed system performance under DDIL 
+- Preservation of the OODA loop 
 - Cross-domain zero-trust architectures  
 - Resilience to EW / jamming / spoofing  
 - Real-time operational decision-making  
